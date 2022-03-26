@@ -20,7 +20,7 @@ First start up the WebConsole server:
 cd ~/free5gc/webconsole
 go run server.go
 ```
-**Note:** The screen shows the port number :5000 at the end. Open your web browser from your host machine, and enter the URL http://192.168.56.101:5000
+**Note:** The screen shows the port number :5000 at the end. Open your web browser from your host machine, and enter the URL http://192.168.5.93:5000
 On the login page, enter username admin and password free5gc
 Once logged in, widen the page until you see “Subscribers” on the left-hand side column.
 Choose Subscribers and create a new data:
